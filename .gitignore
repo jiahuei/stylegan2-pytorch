@@ -1,3 +1,12 @@
+# Internal references
+_ref_/
+
+# PyCharm
+.idea/
+
+# VS Code
+*.code-workspace
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
